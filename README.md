@@ -1,5 +1,5 @@
-#*__Documentación MP4UF1 (apuntes)__*
-### Indice 
+### Documentación MP4UF1 (apuntes)
+# Indice 
 - GITHUB
 - Markdown
 - HTML
