@@ -72,3 +72,14 @@
    d) Cómo activar GitHub pages para un repositorio.
    
    Para poder activar el pages de un repositorio tenemos que ir a settings
+   
+   ![7](Screenshot_9.png "Creacion")
+   
+   Vamos en la opcion de PAGES, el repositorio debe estar en publico para poder activarse. Si el repositorio esta en privado no va dejar
+   
+   ![8](Screenshot_8.png "Creacion")
+   
+   Escogemos a qué rama asociar “pages” (por defecto “main”) y a qué carpeta (por defecto “root”) y aplicamos configuración con “Save”. Una vez procesado, nos muestra 
+   la URL del repositorio.
+   
+   
