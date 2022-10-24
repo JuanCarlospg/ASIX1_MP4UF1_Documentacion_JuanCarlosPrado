@@ -6,11 +6,14 @@
 
 1. **GITHUB-GITHUB_PAGES**
 
-   a) Crear cuenta de Github:
+   a) Crear cuenta de Github.
+   
    Lo primero que hicimos fue crear una cuenta de [GitHub](https://github.com:Portada "Pagina_GitHub"), una vez creada la cuenta de GitHub y verificada, ya podriamos 
    empezar a usar nuestra cuenta.
    
-   b) Creacion de repositorios: Cuando ya estamos dentro del GitHub podemos crear repositorios como se ve en las siguientes imagenes:
+   b) Creacion de repositorios.
+   
+   Cuando ya estamos dentro del GitHub podemos crear repositorios como se ve en las siguientes imagenes:
    
    ![1](Screenshot_3.png "Creacion")
    ![2](Screenshot_4.png "Creacion")
@@ -47,7 +50,9 @@
 
    Notar que usamos la opción "-u", esto lo usaremos solo esta vez, y sirve para indicar que estaremos creando esta rama en el repositorio remoto (github en este          caso), si no lo usamos git no sabrá donde subir el commit que recién hiciste, pues master solo existe en tu computadora por el momento.
    
-   c) Importar repositorio ya existente en GitHub: Para poder importar un repositorio tenemos que copiar la URL del repositorio que queramos importar, en la siguientes imagenes se explica como se hace el proceso.
+   c) Importar repositorio ya existente en GitHub.
+   
+   Para poder importar un repositorio tenemos que copiar la URL del repositorio que queramos importar, en la siguientes imagenes se explica como se hace el proceso.
    
    ![3](Screenshot_5.png "Creacion")
    
@@ -64,3 +69,6 @@
    
    ![6](Screenshot_7.png "Creacion")
    
+   d) Cómo activar GitHub pages para un repositorio.
+   
+   Para poder activar el pages de un repositorio tenemos que ir a settings
