@@ -49,4 +49,18 @@
    
    c) Importar repositorio ya existente en GitHub: Para poder importar un repositorio tenemos que copiar la URL del repositorio que queramos importar, en la siguientes imagenes se explica como se hace el proceso.
    
+   ![3](Screenshot_5.png "Creacion")
+   
+   Cuando ya tenemos la URL copiada tenemos que ir a repositorios y darle a New
+   
+   ![4](Screenshot_3.png "Creacion")
+   
+   Una vez dentro nos aparece una opcion "import a repository" le damos click
+   
+   ![5](Screenshot_6.png "Creacion")
+   
+   En “old repository’s clone URL” pegamos la URL del repositorio a importar mientras que en “Repository Name” ponemos el nombre que queremos que tenga nuestro 
+   repositorio clonado.
+   
+   ![6](Screenshot_7.png "Creacion")
    
