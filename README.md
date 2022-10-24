@@ -82,4 +82,8 @@
    Escogemos a qué rama asociar “pages” (por defecto “main”) y a qué carpeta (por defecto “root”) y aplicamos configuración con “Save”. Una vez procesado, nos muestra 
    la URL del repositorio.
    
+   ![9](Screenshot_10.png "Creacion")
    
+   Una vez darle al Save nos va salir este mensaje el cual nos confirma que se va a generar la URL
+   
+   2. **MarkDown**
