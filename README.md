@@ -86,4 +86,75 @@
    
    Una vez darle al Save nos va salir este mensaje el cual nos confirma que se va a generar la URL
    
-   2. **MarkDown**
+  2. **MarkDown**
+
+ - __Encabezados__: Entre mas # mas pequeño es el es encabezado, tiene como maximo 6 "#" 
+
+   .# Encabezado 1 (H1)
+  
+   .###### Encabezado 6 (H6)
+
+ - __Estilos de letra__:
+
+Texto en cursiva: Para tener un texto en cursiva tenemos que empezar con * y terminal con * o en vez de usar * podemos usar _ y al final _
+
+Texto en negrita Para tener el texto en negrita se empieza con ** y se finaliza con ** o tambien se puede con __ y se finaliza igual con __
+
+Se puede usar con cualquier texto las dos combinaciones juntas
+
+ - __Listas__:
+
+Para la lista ordenada empezamos con 1 pero el número de orden no ha de ser necesariamente consecutivo
+
+.1. Titulo 1 Lista ordenada 
+
+.2. Titulo 2 Lista ordenada
+
+Pero para la lista desordenada podemos utilizar 3 elementos pueden ser +,* o -
+
+.- Titulo 1 Lista desordenada
+
+.- Titulo 2 Lista desordenada
+
+- __Codigo__:
+
+El código se ha de incluir entre acentos graves (`). Si en el código aparece un acento grave, se ha de introducir el carácter dos veces al principio de la sección del código.
+
+``Todo esto es `código`.``
+
+También se puede marcar el área correspondiente al código insertando tres acentos graves al principio y al final. Junto a los tres iniciales se puede indicar el lenguaje (HTML, JavaScript) para que incluso se muestre con los colores adecuados:
+```html
+<html>
+  <head>
+  </head>
+</html>
+```
+- __Enlances__:
+
+[Link].(https://ejemplo.com/ "Título opcional del enlace")
+
+Primero se incluye el texto del link entre corchetes y posteriormente el link entre paréntesis
+
+- __Imagenes__:
+
+![Logo].(Imagen subida a nuestro repositorio "Título opcional de la imagen")
+
+Para poder poner una foto necesito previamente subir la imagen para poder luego insertarla 
+
+- __Tablas__:
+
+.| Encabezado1 | Encabezado2 | Encabezado3 |
+
+.| ----------- | :---------: | ----------: |
+
+.| Item1 | Boli | 20$ |
+
+.| Item2 | Grapadora | 40$ |
+
+.| Item3 | Tipex | 10$ |
+
+- Los dos puntos se usan para alinear las columnas (izquierda, centrado, derecha).
+- No es necesario que estén alineadas verticalmente. Solo a nivel visual para claridad del código.
+- Se han de poner al menos tres guiones para separar cada encabezado
+
+3. **HTML**
