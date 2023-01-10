@@ -162,4 +162,5 @@ Para poder poner una foto necesito previamente subir la imagen para poder luego 
 Las paginas web tienen como mínimo una página creada con HTML, la primera página html tiene que tener el nombre de "index.html" ya que el navegador entenderia que esa es la página principal y es la primera que va amostrar.
 
 Para crear una página HTML hay que seguir estos pasos:
+![11](Screenshot_11.png "Creacion")
 
