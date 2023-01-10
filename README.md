@@ -3,6 +3,7 @@
 - GITHUB
 - Markdown
 - HTML
+- CSS
 
 1. **GITHUB-GITHUB_PAGES**
 
