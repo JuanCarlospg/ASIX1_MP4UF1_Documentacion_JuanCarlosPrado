@@ -158,3 +158,8 @@ Para poder poner una foto necesito previamente subir la imagen para poder luego 
 - Se han de poner al menos tres guiones para separar cada encabezado
 
 3. **HTML**
+
+Las paginas web tienen como mínimo una página creada con HTML, la primera página html tiene que tener el nombre de "index.html" ya que el navegador entenderia que esa es la página principal y es la primera que va amostrar.
+
+Para crear una página HTML hay que seguir estos pasos:
+
