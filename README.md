@@ -162,5 +162,83 @@ Para poder poner una foto necesito previamente subir la imagen para poder luego 
 Las paginas web tienen como mínimo una página creada con HTML, la primera página html tiene que tener el nombre de "index.html" ya que el navegador entenderia que esa es la página principal y es la primera que va amostrar.
 
 Para crear una página HTML hay que seguir estos pasos:
+
 ![11](Screenshot_11.png "Creacion")
+
+Para empezar a escribir html haremos esto:
+
+Escribiremos "html" en nuestra página "index.html" y seleccionaremos la opción "html:5"
+
+![12](Screenshot_12.png "Creacion")
+
+Una vez hecho "index.html" tiene la siguiente estructura básica:
+
+![13](Screenshot_13.png "Creacion")
+
+- __Etiquetas HTML (head)__:
+
+   Lo primero que debemos saber es que la mayoria de etiquetas se tienen que abrir y cerrar.
+
+   La primera etiqueta que debemos conocer es "<title>", se utiliza para ponerle un titulo a la página en el navegador:
+   
+   ![14](Screenshot_14.png "Creacion")
+   
+   La siguiente es link:favicon, se utiliza para poner un icono en la página, para ello crearemos una carpeta llamada "img", donde guardaremos todas las iamgenes que      queramos guardar:
+   
+   ![15](Screenshot_15.png "Creacion")
+   
+   Utilizaremos la etiqueta "link:favicon" justo debajo de "<title>", esta es la estructura:
+   
+   ![16](Screenshot_16.png "Creacion")
+
+- __Etiquetas HTML (body)__:
+   
+   ![17](Screenshot_17.png "Creacion")
+
+4. **CSS**
+
+Mientras que HTML estructura del documento e indica a los navegadores la función de un elemento en concreto (un vínculo, un título,....), el CSS da instrucciones al navegador sobre como ha de mostrar un elemento concreto: estilo, espaciado, posición
+
+   - __Tipos de selectores CSS__:
+   
+   Se utiliza para todas las mismas etiquetas de la pagina html
+
+   En el caso de la siguiente imagen, tenemos un h1, este selector modificara de tal forma que TODOS los h1 esten centrados
+   
+   ![18](Screenshot_18.png "Creacion")
+   
+   - __Selector de clase__:
+   
+   El selector de clase selecciona todos los elementos con una determinada clase. Se representa con el símbolo . seguido del nombre de la clase
+
+   En la pagina html, tenemos que expresar mediante el atributo "class", el nombre de la clase
+   
+   ![19](Screenshot_19.png "Creacion")
+   
+   ![20](Screenshot_20.png "Creacion")
+   
+   - __Selector ID__:
+   
+   Selecciona un elemento basándose en el valor de su atributo id.
+
+   Se expresa mediante un #
+
+   Este selector es lo que indentifica una cosa en concreto, solo puede haber 1 igual, no se puede repetir, en este caso el mismo id.
+   
+   ![21](Screenshot_21.png "Creacion")
+   
+   ![22](Screenshot_22.png "Creacion")
+   
+   - __Selector Universal__:
+   
+   Selecciona todos los elementos.
+
+   Se expresa mediante *
+   
+   ![23](Screenshot_23.png "Creacion")
+   
+   - __Atributos CSS__:
+   
+   ![24](Screenshot_24.png "Creacion")
+   
 
